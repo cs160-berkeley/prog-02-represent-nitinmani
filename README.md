@@ -8,13 +8,13 @@ Nitin Manivasagan ([nitinmani@berkeley.edu](mailto:nitinmani@berkeley.edu))
 
 ## Demo Video
 
-See [your demo video title here] (https://youtu.be/Ts96TLzWf6M)
+See [CS 160 Prog 2B: Represent!] (https://youtu.be/Ts96TLzWf6M)
 
 ## Screenshots
 
-<img src="screenshots/main.png" height="400" alt="Screenshot"/>
+<img src="screenshots/represent.png" height="400" alt="Screenshot"/>
 
 ## Acknowledgments
-
+Staff Code for Catnip!
 * Hat tip to anyone who's code was used
 * Any other support
