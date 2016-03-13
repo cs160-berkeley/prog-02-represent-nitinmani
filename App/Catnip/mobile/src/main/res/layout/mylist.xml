@@ -1,0 +1,81 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="horizontal"
+    android:weightSum="1">/>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:id="@+id/candName"
+            android:layout_marginLeft="150dp"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true" />
+        <ImageView
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_marginTop="50dp"
+            android:id="@+id/candImage"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true" />
+
+        <ImageView
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_marginLeft="50dp"
+            android:id="@+id/imageView4"
+            android:src="@drawable/twitter"
+            android:layout_marginTop="30dp"
+            android:layout_below="@+id/imageView8" />
+
+        <TextView
+            android:layout_width="275dp"
+            android:layout_height="100dp"
+            android:layout_marginLeft="90dp"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:id="@+id/candTwitter"
+            android:layout_marginTop="37dp"
+            android:layout_below="@+id/imageView8" />
+
+        <TextView
+            android:layout_width="275dp"
+            android:layout_height="25dp"
+            android:layout_marginTop="7dp"
+            android:layout_marginLeft="90dp"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:id="@+id/candEmail"
+            android:layout_alignTop="@+id/imageView7" />
+
+        <TextView
+            android:layout_width="275dp"
+            android:layout_height="25dp"
+            android:layout_marginTop="42dp"
+            android:layout_marginLeft="90dp"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:id="@+id/candWebsite"
+            android:layout_below="@+id/imageView7" />
+
+        <ImageView
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_marginTop="25dp"
+            android:layout_marginLeft="50dp"
+            android:id="@+id/imageView7"
+            android:src="@drawable/email"
+            android:layout_below="@+id/candImage"/>
+
+        <ImageView
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_marginTop="35dp"
+            android:layout_marginLeft="50dp"
+            android:id="@+id/imageView8"
+            android:src="@drawable/globe"
+            android:layout_below="@+id/imageView7" />
+
+    </RelativeLayout>
+</LinearLayout>
