@@ -8,7 +8,7 @@ Nitin Manivasagan ([nitinmani@berkeley.edu](mailto:nitinmani@berkeley.edu))
 
 ## Demo Video
 
-See [CS 160 Prog 2B: Represent!] (https://youtu.be/Ts96TLzWf6M)
+See [CS 160 Prog 2B: Represent!] (https://youtu.be/qzf9wwkA2L8)
 
 ## Screenshots
 
