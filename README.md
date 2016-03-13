@@ -8,7 +8,7 @@ Nitin Manivasagan ([nitinmani@berkeley.edu](mailto:nitinmani@berkeley.edu))
 
 ## Demo Video
 
-See [CS 160 Prog 2B: Represent!] (https://youtu.be/qzf9wwkA2L8)
+See [CS 160 Prog 2C: Represent!] (https://www.youtube.com/watch?v=aIgLwT6F3YY&feature=youtu.be)
 
 ## Screenshots
 
@@ -16,5 +16,6 @@ See [CS 160 Prog 2B: Represent!] (https://youtu.be/qzf9wwkA2L8)
 
 ## Acknowledgments
 Staff Code for Catnip!
+API Documentation Online
 * Hat tip to anyone who's code was used
 * Any other support
