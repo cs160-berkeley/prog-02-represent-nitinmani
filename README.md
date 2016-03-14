@@ -1,6 +1,6 @@
 # PROG 02: Represent!
 
-Briefly describe your app here.
+Represent! is an application that allows users to look up their representative information based on their location or a random zipcode. They can also look up more detailed views of certain representatives, as well as the vote data on the watch.
 
 ## Authors
 
